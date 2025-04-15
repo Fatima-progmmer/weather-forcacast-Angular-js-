@@ -10,7 +10,9 @@ body, html {
   color: #ffffff;
   overflow-x: hidden;
 }
-
+.input-group{
+  width:50%;
+}
 @keyframes gradientFlow {
   0% { background-position: 0% 50%; }
   50% { background-position: 100% 50%; }
